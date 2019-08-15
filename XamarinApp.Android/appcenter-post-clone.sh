@@ -13,6 +13,3 @@
 
 #ls /Library/Frameworks/Xamarin.Android.framework/Versions/6_0_0
 #cat /Library/Frameworks/Xamarin.Android.framework/Versions/6_0_0/VERSION
-
-echo "build will exit"
-exit 1
